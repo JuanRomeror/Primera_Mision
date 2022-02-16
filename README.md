@@ -1,6 +1,5 @@
-# Primera_Mision
-Python 
+# Primera Mision
+Curso Introductorio de Python.
 
 Autor: Juan Romero
 
-Linea
