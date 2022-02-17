@@ -1,2 +1,3 @@
-# Primera_Mision
+# Primera Mision
 Python 
+Autor: Juan Romero
